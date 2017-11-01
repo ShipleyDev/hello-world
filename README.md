@@ -1,2 +1,2 @@
 # hello-world
-New GitHub repo
+Hi, I'm beginning to get involved in Developers communities.
